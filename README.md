@@ -1,0 +1,1 @@
+# CI JSON Schema[![Build status](https://ci.appveyor.com/api/projects/status/3wpyknf9mj8upl8s?svg=true)](https://ci.appveyor.com/project/OlesyaSergeevnaPopova/test-json-schema)
